@@ -11,7 +11,7 @@
     ":semanticPrefixFixDepsChoreOthers",
     ":updateNotScheduled",
     ":automergePr",
-    ":automergeMinor",
+    ":automergeAll",
     ":ignoreModulesAndTests",
     ":preserveSemverRanges",
     ":prHourlyLimit2",
