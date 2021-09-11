@@ -14,7 +14,7 @@
     ":automergeAll",
     ":ignoreModulesAndTests",
     ":preserveSemverRanges",
-    ":prHourlyLimit2",
+    ":prHourlyLimit10",
     ":prConcurrentLimit20",
     ":label(dependencies)",
     ":enableVulnerabilityAlertsWithLabel(security)",
