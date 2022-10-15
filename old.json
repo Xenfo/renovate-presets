@@ -1,5 +1,7 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "description": "My old Renovate preset",
+  "baseBranches": ["dev"],
   "extends": [
     ":assignee(Xenfo)",
     ":dependencyDashboard",
@@ -21,6 +23,5 @@
     "group:monorepos",
     "group:recommended",
     "workarounds:all"
-  ],
-  "baseBranches": ["dev"]
+  ]
 }
