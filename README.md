@@ -5,7 +5,7 @@
 ```json
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": ["github>Xenfo/renovate"]
+  "extends": ["github>Xenfo/renovate-presets"]
 }
 ```
 
@@ -14,6 +14,6 @@
 ```json
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": ["github>Xenfo/renovate:old"]
+  "extends": ["github>Xenfo/renovate-presets:old"]
 }
 ```
