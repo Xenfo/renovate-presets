@@ -14,8 +14,8 @@
     ":preserveSemverRanges",
     ":prHourlyLimit4",
     ":prConcurrentLimit20",
-    ":label(M - dependencies)",
-    ":enableVulnerabilityAlertsWithLabel(M - security)",
+    ":label(dependencies)",
+    ":enableVulnerabilityAlertsWithLabel(security)",
     "group:monorepos",
     "group:recommended",
     "workarounds:all"
